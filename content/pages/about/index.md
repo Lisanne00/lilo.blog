@@ -4,6 +4,6 @@ draft = false
 image = "/img/default-author.jpg"
 description = ""
 +++
-![](/img/default-author.jpg)
+![](pexels-jakkel-418831-1-1-.jpg)
 
 ## Lisanne Hasler
