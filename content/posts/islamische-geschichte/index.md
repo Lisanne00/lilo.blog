@@ -1,7 +1,7 @@
 +++
 title = "Islamische Geschichte"
 date = "2024-11-04"
-draft = false
+draft = true
 pinned = false
 image = "pexels-yasirgurbuz-12721555-1-.jpg"
 +++
