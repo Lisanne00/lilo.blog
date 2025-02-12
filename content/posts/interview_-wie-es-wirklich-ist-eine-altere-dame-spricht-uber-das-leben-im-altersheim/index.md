@@ -1,9 +1,9 @@
 +++
-title = "Interview_ Wie es wirklich ist: Eine ältere Dame spricht über das Leben im Altersheim"
+title = "Wie es wirklich ist: Eine ältere Dame spricht über das Leben im Altersheim"
 date = "2025-02-11"
 draft = false
 pinned = false
-tags = []
+tags = ["Interview"]
 image = "whatsapp-bild-2025-02-09-um-16.17.00_4f46bed3-1-.jpg"
 +++
 <!--StartFragment-->
